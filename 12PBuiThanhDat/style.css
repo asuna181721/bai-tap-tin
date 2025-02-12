@@ -1,0 +1,23 @@
+<table border="1"><caption><h2>Thời Khóa Biểu</h2></caption>
+   <tr>
+    <th>Thứ 2</th>
+    <th>Thứ 3</th>
+    <th>Thứ 4</th>
+    <th>Thứ 5</th>
+    <th>Thứ 6</th>
+    </tr><tr>
+      <td>đi học</td>
+      <td>đi chơi</td>
+      <td>đi ngủ</td>
+      <td>đàm phán hòa bình</td>
+      <td>tuyên truyền lý luận phản chiến</td>
+    </tr>
+    <tr>
+      <td>nuôi bò thử nghiệm</td>
+      <td>thử loại cỏ mới</td>
+      <td>phát triển giống bò không sữa</td>
+      <td>thể dục thể thao</td>
+      <td>đi làm</td>html {
+  height: 100%;
+  width: 100%;
+}
